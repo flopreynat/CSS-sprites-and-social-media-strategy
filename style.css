@@ -1,0 +1,30 @@
+h2{
+	margin-left: 20px;
+	text-transform: uppercase;
+}
+ul {
+	list-style:none;
+}
+li {
+	display: inline;
+	margin-right: 15px;
+}
+.social {
+	display: inline-block;
+	width: 46px; 
+	height: 45px;
+}
+.twitter {
+	background: url('Simple-Social-Icons.png') no-repeat -180px 0;
+}
+
+.dribbble {
+	background: url('Simple-Social-Icons.png') no-repeat 0 0;
+}
+
+.rss {
+	background: url('Simple-Social-Icons.png') no-repeat -240px 0;
+}
+.forrst {
+	background: url('Simple-Social-Icons.png') no-repeat -60px 0;
+}
